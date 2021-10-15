@@ -1,0 +1,33 @@
+_repo: Im-igyen-szola-Zarathustra_66444
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Wildner, Ödön
+    alias: Wildner, Odon
+    birthdate: 1874
+    deathdate: 1944
+    gutenberg_agent_id: '53698'
+    url: http://www.gutenberg.org/2009/agents/53698
+    wikipedia: https://hu.wikipedia.org/wiki/Wildner_%C3%96d%C3%B6n
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Friedrich_Nietzsche
+    - https://en.wikipedia.org/wiki/Friedrich_Nietzsche
+description: ''
+gutenberg_issued: '2021-10-01'
+identifiers:
+  gutenberg: '66444'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Im-ígyen szóla Zarathustra
+url: http://www.gutenberg.org/ebooks/66444
