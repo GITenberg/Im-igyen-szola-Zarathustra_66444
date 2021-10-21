@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '53698'
     url: http://www.gutenberg.org/2009/agents/53698
     wikipedia: https://hu.wikipedia.org/wiki/Wildner_%C3%96d%C3%B6n
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -20,6 +23,8 @@ creator:
     - https://de.wikipedia.org/wiki/Friedrich_Nietzsche
     - https://en.wikipedia.org/wiki/Friedrich_Nietzsche
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66444#Im-igyen-szola-Zarathustra
 gutenberg_issued: '2021-10-01'
 identifiers:
   gutenberg: '66444'
